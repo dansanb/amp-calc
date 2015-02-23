@@ -1,0 +1,59 @@
+{
+    "pump": {
+        "name": "Pump",
+        "image": "pump.jpg",
+        "ratings": {
+            "7.5HP": {
+                "name" : "7.5 HP Pump",
+                "rating": "9"
+            },
+       
+            "10HP": {
+                "name" : "10 HP Pump",
+                "rating": "12"
+            },
+       
+            "15HP": {
+                "name" : "15 HP Pump",
+                "rating": "17"
+            }       
+        }         
+    },
+
+    "blower": {
+        "name": "Blower",
+        "image": "blower.jpg",
+        "ratings": {
+            "7.5HP": {
+                "name" : "7.5 HP Blower",
+                "rating": "9"
+            },
+       
+            "10HP": {
+                "name" : "10 HP Blower",
+                "rating": "12"
+            },
+       
+            "15HP": {
+                "name" : "15 HP Blower",
+                "rating": "17"
+            }       
+        }         
+    },
+
+    "heater": {
+        "name": "Heater",
+        "image": "heater.jpg",
+        "ratings": {
+            "15KW": {
+                "name" : "15 Kilowatt Heater",
+                "rating": "18"
+            },
+       
+            "18KW": {
+                "name" : "18 Kilowatt Heater",
+                "rating": "20"
+            }    
+        }         
+    }
+}

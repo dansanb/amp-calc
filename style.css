@@ -1,0 +1,13 @@
+.jumbotron {
+	margin-top: 30px;
+	min-height: 300px;	
+	padding: 10px;
+	
+	background-position: center bottom;
+    background-repeat: no-repeat;    
+}
+
+h4.amp-result {
+	margin-top: 40px;
+	font-size: 200px;
+}

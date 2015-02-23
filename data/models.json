@@ -1,0 +1,109 @@
+{
+    "t8": {
+        "name": "Typhoon T8 Chemistry Cleaner",
+        "image": "t8.png",
+        "config": [
+            {
+                "title": "Wash Pump: ", 
+                "component":"pump",
+                "rating":"15HP"
+            },
+            {
+                "title": "Wash Heater: ", 
+                "component":"heater",
+                "rating":"15KW"
+            },
+            {
+                "title": "Blower: ", 
+                "component":"blower",
+                "rating":"7.5HP"
+            }
+        ]
+    }, 
+
+    "t9": {
+        "name": "Typhoon T9 Cleaner",
+        "image": "t9.png",
+        "config": [
+            {
+                "title": "Wash Pump: ", 
+                "component":"pump",
+                "rating":"15HP"
+            },
+            {
+                "title": "Wash Heater: ", 
+                "component":"heater",
+                "rating":"15KW"
+            },
+            {
+                "title": "Blower: ", 
+                "component":"blower",
+                "rating":"15HP"
+            }
+        ]
+    },
+
+    "t12": {
+        "name": "Typhoon T12 Cleaner",
+        "image": "t12.png",
+        "config": [
+            {
+                "title": "Wash Pump: ", 
+                "component":"pump",
+                "rating":"15HP"
+            },
+            {
+                "title": "Wash Heater: ", 
+                "component":"heater",
+                "rating":"15KW"
+            },
+            {
+                "title": "Blower 1: ", 
+                "component":"blower",
+                "rating":"15HP"
+            },
+            {
+                "title": "Blower 2: ", 
+                "component":"blower",
+                "rating":"15HP"
+            }
+        ]
+    },
+
+    "t15": {
+        "name": "Typhoon T15 Cleaner",
+        "image": "t15.png",
+        "config": [
+            {
+                "title": "Wash Pump: ", 
+                "component":"pump",
+                "rating":"15HP"
+            },
+            {
+                "title": "Wash Heater: ", 
+                "component":"heater",
+                "rating":"15KW"
+            },
+            {
+                "title": "Rinse Pump: ", 
+                "component":"pump",
+                "rating":"15HP"
+            },
+            {
+                "title": "Rinse Heater: ", 
+                "component":"heater",
+                "rating":"15KW"
+            },
+            {
+                "title": "Blower 1: ", 
+                "component":"blower",
+                "rating":"15HP"
+            },
+            {
+                "title": "Blower 2: ", 
+                "component":"blower",
+                "rating":"15HP"
+            }
+        ]
+    }
+}
